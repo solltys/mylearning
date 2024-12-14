@@ -1,0 +1,8 @@
+.main {
+  width: 80%;
+  height: 100%;
+  background-color: #f8f8ff;
+  padding: 3% 3% 3%;
+  display: flex;
+  flex: auto;
+}
