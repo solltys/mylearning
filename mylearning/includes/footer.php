@@ -1,1 +1,0 @@
-<footer>&copy <a href="https://mr-soltys.com"> Mr-Soltys </a><?php echo date('Y')?></footer>

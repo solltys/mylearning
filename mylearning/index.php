@@ -1,1 +1,0 @@
-<!DOCTYPE html><?php require_once 'includes/header.php'; ?><body><?php require_once 'includes/navbar.php'; ?><main>    <?php require_once 'includes/side_menu.php'; ?>                <div class="main">                <h1>Please Select Chapter from the Menu!</h1>                </div>                    </main><?php include 'includes/footer.php'; ?>    </body></html>

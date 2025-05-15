@@ -1,1 +1,0 @@
-<?php?><!DOCTYPE html><?php require_once '../includes/chapters_header.php'; ?><body><?php require_once '../includes/chapters_navbar.php'; ?><main>    <?php require_once '../includes/chapters_side_menu.php'; ?>    <div class="main">        <h1>The Candy Store </h1>    </div></main><?php include '../includes/footer.php'; ?></body></html>
