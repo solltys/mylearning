@@ -1,0 +1,1 @@
+<nav>    <div class="navbar"> <a href="index.php"><img id="logo" src="/Assets/Logo.png" alt="My Logo Image"></a>        <header>Mr. Soltys Learning Page</header>        <ul>            <li><a href="https://phpbook:8890">PHP Text Book</a></li>            <li><a href="../index.php">Projects</a></li>        </ul>    </div></nav>
